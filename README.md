@@ -32,16 +32,11 @@ To ensure a smooth gameplay experience and stable FPS, I implemented the **Objec
 
 ## 🖼️ Gameplay Screenshots
 
+<img width="1569" height="878" alt="Ekran görüntüsü 2026-03-23 235313" src="https://github.com/user-attachments/assets/e11c57ef-7532-4a5f-a520-d0fd932fde07" />
+<img width="1569" height="881" alt="Ekran görüntüsü 2026-03-23 235626" src="https://github.com/user-attachments/assets/25cc737b-dc74-4585-9c9b-3d12a3202fe4" />
+<img width="1763" height="836" alt="Ekran görüntüsü 2026-03-23 235423" src="https://github.com/user-attachments/assets/47cbfb63-b157-4406-a78e-2a3607b537bf" />
+<img width="1566" height="876" alt="Ekran görüntüsü 2026-03-23 235521" src="https://github.com/user-attachments/assets/d4cca55f-a604-4c84-bf38-6b08bd11d7db" />
 
-| **Combat & UI** | **Environment & Waves** |
-| :--- | :--- |
-| ![Gameplay 1](https://via.placeholder.com/600x340?text=Combat+Screenshot) | ![Gameplay 2](https://via.placeholder.com/600x340?text=Environment+Screenshot) |
-
-| **Explosions (AOE)** | **Loot System** |
-| :--- | :--- |
-| ![Gameplay 3](https://via.placeholder.com/600x340?text=Explosion+Effect) | ![Gameplay 4](https://via.placeholder.com/600x340?text=Loot+Spawn) |
-
----
 
 ## 💻 Tech Stack
 * **Engine:** Unity 2022.x (C#)
